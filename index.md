@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/engaudio/eng/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+定制英语/普通话音频、转化YouTube音频，请联系我们。示范mp3文件/文字在: [荔枝FM“英语音频分享”主页](www.lizhi.fm/46237043) ，请用“荔枝FM”app播放。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+任意英语、中文文本，都可以转为语音。音频可用mp3文件交付，可反复听……无限循环。
 
-### Markdown
+联系方式：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+微信公众号“英语音频分享”
 
-```markdown
-Syntax highlighted code block
+微信号：2301414714
 
-# Header 1
-## Header 2
-### Header 3
+QQ:    2301414714
 
-- Bulleted
-- List
+邮箱：2301414714@qq.com
 
-1. Numbered
-2. List
+微信公众号“英语音频分享”二维码
+![“英语音频分享”微信公众号二维码](images/qrcode_for_gh_1c0b5209dfda_430.jpg)
 
-**Bold** and _Italic_ and `Code` text
+个人微信号-英语音频分享客服小编二维码
+![个人微信号-英语音频分享客服小编二维码](images/learninteng.jpg)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/engaudio/eng/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
